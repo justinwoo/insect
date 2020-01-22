@@ -1,0 +1,13 @@
+{
+  "name": "name",
+  "set": "local",
+  "source": "psc-package-set.json",
+  "depends": [
+    "quantities",
+    "parsing",
+    "ordered-collections",
+    "generics-rep",
+    "psci-support",
+    "test-unit"
+  ]
+}
